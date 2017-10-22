@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
+
 namespace TowerDefense
 {
     [RequireComponent(typeof(NavMeshAgent))]
